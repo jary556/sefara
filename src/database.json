@@ -1,6 +1,179 @@
 {
   "sticker": {},
-  "database": {},
+  "database": {
+    "الجدول": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "297D2D49E2056344BB4352EDECA80F59"
+      },
+      "message": {
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/d/f/Ag35mSsLrTjRv9bTQDo8Zir4k9xlpLySFRgytNTve8Il.enc",
+          "mimetype": "image/jpeg",
+          "fileSha256": "gq5MgILhepju2S41nUlfO1PjrHlQiyYSgGx/OxVtQVI=",
+          "fileLength": "73201",
+          "height": 1280,
+          "width": 992,
+          "mediaKey": "Yhd78PgsKgtGL5nuFWTVFQT+H2MeON9fCyRCn5MPoCU=",
+          "fileEncSha256": "ZgzxH3e2Dximnb+K8X35hzRhcsO/kmjRQgghXEWXhIo=",
+          "directPath": "/v/t62.7118-24/20126654_533778514982259_2166026379630265828_n.enc?ccb=11-4&oh=01_AVwzKrSLbcGtzmCl0uHs1Qpo9-i1-KXQSot8LeKiMxvNbw&oe=6290645F",
+          "mediaKeyTimestamp": "1651095325",
+          "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIADgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAPcllJmF0Y21FLCS5qCFoGksQRyIOwaSxJYRKLQNIVmlKVRX/8QAGBEBAQADAAAAAAAAAAAAAAAAARAAIDD/2gAIAQIBAT8AxpoRhw//xAAWEQEBAQAAAAAAAAAAAAAAAAABECD/2gAIAQMBAT8AwwjCMNf/xAAjEAACAgICAgEFAAAAAAAAAAAAAQIxESEQMhJBUSJSYXGB/9oACAEBAAE/AJW+c6zyrJW+HNp0ZfwKbzXCslbFjBJLIoxwSSjtJf0TysislbFRK/RF/on19EeqoVkrZnQtvaRtekSy40mR6rWBWStninZhRpDgnttko4hiyHVawKyVs8klsck1o8kTacCHVCslbGk7HFKkKK9okvpwlkj12sCslb48X9zPF/LMfnhWf//+AAMA/9k="
+        }
+      }
+    },
+    "تعرف حد جامد؟": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "DABD46890FDFC4B834BE85E75E38FC51"
+      },
+      "message": {
+        "conversation": "اعرف اجمد واحد علكوكب اسمه احمد اسامه صديقي 🫡❤️"
+      }
+    },
+    "احا": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "احو": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "ميتين امك": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "ميتينك": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "يابن الشرموطه": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "اب قحبة": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "زانية": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "اللبوة": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "يابن اللبوة": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "يابن اللبؤة": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "خخ": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "خخخخ": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "خخخخخخ": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    },
+    "خخخ احا": {
+      "key": {
+        "remoteJid": "966572651699@s.whatsapp.net",
+        "fromMe": false,
+        "id": "98B17CFC2865A1DB68909E6ACDA90035"
+      },
+      "message": {
+        "conversation": "يرجي الالتزام بالقواعد وعدم لفظ هذة الألفاظ الدنيئة منك مرة اخري وتذكر.... لكل لسان رقيب عتيد سيتم طردك المرة القادمة يا صديقي🔰⚔"
+      }
+    }
+  },
   "game": {
     "tebaklagu": [],
     "family100": [],
@@ -481,6 +654,236 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 100
+    },
+    "966572651699@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966595837389@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "393291119517@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96555362361@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966545083079@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "393890405559@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966570791728@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "201029669708@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "393517053199@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "201092296657@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966547253946@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966572367454@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966599152636@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966590606966@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966570386450@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96597942623@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96590972466@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96566057865@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96560655960@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96590937518@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "201100021793@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "962798139655@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966561718538@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "201061014070@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966507946453@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966556825630@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966553123733@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966598058387@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966570949516@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966545127560@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966570951607@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "201026368413@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "201114663953@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "201099492506@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966597078800@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966562343740@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966530702650@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "201285062468@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966577146928@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966562862551@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "966570862632@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96590949602@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "393271621179@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96560070604@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96565601303@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "96566170071@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
     }
   },
   "chats": {
@@ -563,6 +966,50 @@
       "wame": false
     },
     "12497018123@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "120363024415003042@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "966572651699@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "966562165345-1617440796@g.us": {
+      "mute": true,
+      "wame": false
+    },
+    "120363041823859129@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "120363024736829027@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "120363022088720559@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "120363042025344139@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "966547253946-1606208428@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "966561718538@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "966570386450@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "966562343740@s.whatsapp.net": {
       "mute": false,
       "wame": false
     }

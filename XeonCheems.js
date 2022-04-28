@@ -104,7 +104,7 @@ return dDisplay + hDisplay + mDisplay + sDisplay;
         }
         
         const replay = (teks) => {
-            XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` Subscribe Bot's Official YT Channel`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/cheemspic.jpg`),"sourceUrl": "https://youtu.be/imFIX-Wrt3s"}}}, { quoted: m})
+            XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` Subscribe Bot's Official YT Channel`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/cheemspic.jpg`),"sourceUrl": "https://sabroad.emis.gov.eg"}}}, { quoted: m})
         }
 try {
             let isNumber = x => typeof x === 'number' && !isNaN(x)
@@ -594,7 +594,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
             }
             break
             case 'sc': case 'script': {
-                reply('Script : https://github.com/DGXeon/CheemsBot-MD\n Dont Forget To Give Star\n\nYoutube : https://youtu.be/imFIX-Wrt3s\n Dont Forget To Subscribe')
+                reply('Script : https://exam.abroad.moe.gov.eg\n Dont Forget To Give Star\n\nYoutube : https://sabroad.emis.gov.eg\n Dont Forget To Subscribe')
             }
             break
             case 'chat': {
@@ -1209,8 +1209,8 @@ case 'antilink':
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://github.com/DGXeon/CheemsBot-MD'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://exam.abroad.moe.gov.eg'
                                 }
                             }, {
                                 callButton: {
@@ -1249,8 +1249,8 @@ case 'antilink':
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Script🔖',
-                                    url: 'https://github.com/DGXeon/CheemsBot-MD'
+                                    displayText: 'موقع الامتحانات 📝📀',
+                                    url: 'https://exam.abroad.moe.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2386,13 +2386,13 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
-                                    url: 'https://github.com/DGXeon/CheemsBot-MD'
+                                displayText: 'موقع الامتحانات 📝📀',
+                                    url: 'https://exam.abroad.moe.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2446,13 +2446,13 @@ Please Select Button Below
 `,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
-                                    url: 'https://github.com/DGXeon/CheemsBot-MD'
+                                displayText: 'موقع الامتحانات 📝📀',
+                                    url: 'https://exam.abroad.moe.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2616,8 +2616,8 @@ case 'grupmenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2658,8 +2658,8 @@ case 'downloadmenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2695,8 +2695,8 @@ case 'downloadmenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2726,8 +2726,8 @@ case 'randommenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2758,8 +2758,8 @@ case 'funmenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2798,8 +2798,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2832,8 +2832,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2890,8 +2890,8 @@ case 'horoscopemenukcodk': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2928,8 +2928,8 @@ case 'convertmenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2968,8 +2968,8 @@ case 'nocategorymenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3005,8 +3005,8 @@ case 'databasemenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3037,8 +3037,8 @@ case 'anonymouschatmenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3069,8 +3069,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3106,8 +3106,8 @@ break
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3247,8 +3247,8 @@ break
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'متابعة اخبار الموقع 🔭🔍',
+                                    url: 'https://sabroad.emis.gov.eg'
                                 }
                             }, {
                                 quickReplyButton: {

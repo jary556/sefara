@@ -22,12 +22,12 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['916909137213','6283839980451'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['916909137213'] //another owner number
-global.premium = ['916909137213'] //premium number
-global.pengguna = 'Xeon' //username
-global.botnma = 'Cheems Bot-MD' //bot name
-global.ownernma = '🦄Dream Guy Xeon' //owner name
+global.owner = ['201029669708', '966572651699']
+global.pemilik = ['201029669708']
+global.premium = ['966563393044']
+global.pengguna = 'Sefara' 
+global.botnma = 'Sefara bot '
+global.ownernma = '🦄Armex_x12'
 global.packname = 'Cheems Bot' //sticker package name
 global.author = 'By Dream Guy Xeon' //sticker author name
 global.sessionName = 'session' //session name
@@ -51,9 +51,11 @@ global.limitawal = {
 global.thumb = fs.readFileSync('./XeonMedia/cheemspic.jpg')
 
 let file = require.resolve(__filename)
+
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
 	console.log(chalk.redBright(`Update'${__filename}'`))
 	delete require.cache[file]
 	require(file)
 })
+
